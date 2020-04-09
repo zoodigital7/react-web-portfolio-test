@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "engines": {
+    "node": "v12.6.0",
+    "npm": "6.9.0"
   }
 }
